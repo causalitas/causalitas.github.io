@@ -14,6 +14,6 @@ We are still discussing the day of the week and time which are the best for the 
 
 You can subscribe to our mailing [here]() or subscribe to our newsletter [here]()
 
-## Reading group
+## Reading group tips
 
-Please read [this document](https://docs.google.com/document/d/1KqtfhKbePLfSsJ-_hR6kBditC0uMSo0BXAZP5Mm_hPw/edit#heading=h.kz18mwtdqsp8) to gather some tips of how to better spend your time in a reading group as presenter or listener. This document is a courtesy of Lester Mackey, Percy Liang, and their reading groups.
+Please read [this document](https://docs.google.com/document/d/1KqtfhKbePLfSsJ-_hR6kBditC0uMSo0BXAZP5Mm_hPw/edit#heading=h.kz18mwtdqsp8) to gather some tips of how to better spend your time in a reading group as a presenter or a listener. This document is a courtesy of Lester Mackey, Percy Liang, and their reading groups.
