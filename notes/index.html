@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<p class="message">
+  Notes about various causal inference topics.
+</p>
+
+<div>
+    {% for category in site.categorylist %}
+        <h2>{{ category | capitalize  }}</h2>
+        <ul>
+        {% for note in site.notes %}
+
+            {% if note.category == category %}
+
+            <li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></li>
+
+            {% endif %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a class="pagination-item older" href="{{ site.baseurl }}/blog/page{{paginator.next_page}}">Older</a>
+  {% else %}
+  <span class="pagination-item older">Older</span>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+
+        {% if paginator.page == 2 %}
+        <a class="pagination-item newer" href="{{ site.baseurl }}/blog">Newer</a>
+        {% else %}
+        <a class="pagination-item newer" href="{{ site.baseurl }}/blog/page{{paginator.previous_page}}">Newer</a>
+        {% endif %}
+  {% else %}
+  <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
