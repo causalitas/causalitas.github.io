@@ -25,7 +25,7 @@ plugins: 	  [jekyll-paginate]
 
 # Custom vars
 version:          1.0.0
-categorylist:     [causal inference, causality, machine learning]
+categorylist:     [causal inference, causality, causal networks, causal models, machine learning]
 collections:
     notes:
         collections_dir: notes
