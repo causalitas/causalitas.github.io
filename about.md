@@ -11,7 +11,7 @@ We are academics and practitioners interested in understanding and discussing th
 ## Organizers
 
 * [Alessandro Leite][twitter-al]
-* Ana Stoica
+* [Andra Anoaica][twitter-anoaica]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -51,6 +51,7 @@ We are academics and practitioners interested in understanding and discussing th
 <!-- update these accordingly -->
 
 [twitter-al]: https://twitter.com/alessandroleite
+[twitter-anoaica]:https://twitter.com/andraanoaica
 
 [1]: https://www.twitter.com/causalitas
 [2]: http://www.facebook.com/
